@@ -1,0 +1,148 @@
+Output base url = http://www.ics.uci.edu/~mlearn/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets/datasets.html
+
+Link = index.html
+  
+Link = http://cml.ics.uci.edu
+  
+Link = about.html
+  
+Link = citation_policy.html
+  
+Link = donation_policy.html
+  
+Link = contact.html
+  
+Link = datasets.html
+  
+Link = datasets.html
+  
+Link = http://mlearn.ics.uci.edu/MLRepository.html
+  
+Link = about.html
+  
+Link = citation_policy.html
+  
+Link = donation_policy.html
+  
+Link = contact.html
+  
+Link = http://mlr.cs.umass.edu/ml/
+  
+Link = http://www.nsf.gov
+  
+Link = http://rexa.info
+  
+Link = http://archive.ics.uci.edu/ml/noteNetflix.txt
+  
+Link = http://mlr.cs.umass.edu/ml/
+  
+Link = datasets/Pittsburgh+Bridges
+  
+Link = datasets/Pittsburgh+Bridges
+  
+Link = datasets/NIPS+Conference+Papers+1987-2015
+  
+Link = datasets/NIPS+Conference+Papers+1987-2015
+  
+Link = datasets/Amazon+book+reviews
+  
+Link = datasets/Amazon+book+reviews
+  
+Link = datasets/Dota2+Games+Results
+  
+Link = datasets/Dota2+Games+Results
+  
+Link = datasets/Facebook+metrics
+  
+Link = datasets/Facebook+metrics
+  
+Link = datasets/Gas+sensors+for+home+activity+monitoring
+  
+Link = datasets/Gas+sensors+for+home+activity+monitoring
+  
+Link = datasets/UbiqLog+%28smartphone+lifelogging%29
+  
+Link = datasets/UbiqLog+%28smartphone+lifelogging%29
+  
+Link = datasets/Twin+gas+sensor+arrays
+  
+Link = datasets/Twin+gas+sensor+arrays
+  
+Link = datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29
+  
+Link = datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29
+  
+Link = datasets/Polish+companies+bankruptcy+data
+  
+Link = datasets/Polish+companies+bankruptcy+data
+  
+Link = datasets/Air+Quality
+  
+Link = datasets/Air+Quality
+  
+Link = datasets/Facebook+Comment+Volume+Dataset
+  
+Link = datasets/Facebook+Comment+Volume+Dataset
+  
+Link = datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29
+  
+Link = datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29
+  
+Link = datasets/Iris
+  
+Link = datasets/Iris
+  
+Link = datasets/Adult
+  
+Link = datasets/Adult
+  
+Link = datasets/Wine
+  
+Link = datasets/Wine
+  
+Link = datasets/Car+Evaluation
+  
+Link = datasets/Car+Evaluation
+  
+Link = datasets/Forest+Fires
+  
+Link = datasets/Forest+Fires
+  
+Link = datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+  
+Link = datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+  
+Link = datasets/Human+Activity+Recognition+Using+Smartphones
+  
+Link = datasets/Human+Activity+Recognition+Using+Smartphones
+  
+Link = datasets/Abalone
+  
+Link = datasets/Abalone
+  
+Link = datasets/Wine+Quality
+  
+Link = datasets/Wine+Quality
+  
+Link = datasets/Heart+Disease
+  
+Link = datasets/Heart+Disease
+  
+Link = datasets/Poker+Hand
+  
+Link = datasets/Poker+Hand
+  
+Link = datasets/Bank+Marketing
+  
+Link = datasets/Bank+Marketing
+  
+Link = about.html
+  
+Link = citation_policy.html
+  
+Link = donation_policy.html
+  
+Link = contact.html
+  
+Link = http://cml.ics.uci.edu
+  

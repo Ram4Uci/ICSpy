@@ -1,0 +1,254 @@
+Output base url = http://www.ics.uci.edu/about/bren/bren_press.php/bren_vision.php/gallery/search/ugrad/ugrad
+
+Link = http://www.ics.uci.edu/
+  
+Link = http://www.uci.edu/
+  
+Link = /about/
+  
+Link = /about/
+  
+Link = /about/about_deanmsg.php
+  
+Link = /about/about_factsfigures.php
+  
+Link = /about/brenhall/index.php
+  
+Link = /about/visit/index.php
+  
+Link = /about/equity/
+  
+Link = /about/about_contact.php
+  
+Link = /dept/
+  
+Link = http://www.cs.uci.edu
+  
+Link = http://www.informatics.uci.edu
+  
+Link = http://www.stat.uci.edu
+  
+Link = /faculty/area/
+  
+Link = /faculty/area/
+  
+Link = /faculty/centers/
+  
+Link = /faculty/highlights/
+  
+Link = #
+  
+Link = /grad/admissions/index
+  
+Link = /grad/admissions/index
+  
+Link = /grad/admissions/Prospective_ApplicationProcess.php
+  
+Link = /grad/degrees/index
+  
+Link = /grad/courses/index
+  
+Link = /grad/forms/index
+  
+Link = /grad/policies/index
+  
+Link = /grad/funding/index
+  
+Link = /computing/account/new
+  
+Link = /grad/resources
+  
+Link = /about/visit/index
+  
+Link = http://www.ics.uci.edu/bin/pdf/grad/F16-17%20Graduate%20Student%20Handbook.pdf
+  
+Link = /grad/index
+  
+Link = /ugrad/
+  
+Link = /ugrad/index
+  
+Link = /ugrad/sao/index
+  
+Link = /ugrad/courses/index
+  
+Link = /ugrad/QA_Petitions
+  
+Link = /ugrad/degrees/index.php
+  
+Link = /ugrad/degrees/Minors
+  
+Link = /ugrad/policies/Academic_Integrity
+  
+Link = /ugrad/policies/Academic_Standing
+  
+Link = /ugrad/policies/Add_Drop_ChangeOption
+  
+Link = /ugrad/policies/Course_Outside_UCI
+  
+Link = /ugrad/policies/Grade_Options
+  
+Link = /ugrad/policies/Laptop_ComputerUse
+  
+Link = /ugrad/policies/Withdrawal_Readmission
+  
+Link = /ugrad/QA_Graduation
+  
+Link = /ugrad/resources/index
+  
+Link = /ugrad/sao/SAO_Events.php
+  
+Link = /computing/account/new
+  
+Link = http://www.ics.uci.edu/prospective
+  
+Link = /community/scholarships/index
+  
+Link = #
+  
+Link = /faculty/
+  
+Link = /about/search/index.php
+  
+Link = /about/search/search_graduate_all.php
+  
+Link = /community/alumni/
+  
+Link = #
+  
+Link = /community/news/
+  
+Link = http://calendar.ics.uci.edu/calendar.php
+  
+Link = /community/news/press/
+  
+Link = /about/annualreport/
+  
+Link = /involved/
+  
+Link = http://www.uadv.uci.edu/DonaldBrenSchoolOfICSAnnualGiving
+  
+Link = /involved/leadership_council
+  
+Link = /involved/corporate_partner
+  
+Link = /involved/project_class
+  
+Link = /community/events/competition/
+  
+Link = https://ucirvine-csm.symplicity.com/index.php/pid700104
+  
+Link = /
+  
+Link = http://www.ics.uci.edu/about/
+  
+Link = http://www.ics.uci.edu/about/bren/
+  
+Link = http://www.ics.uci.edu/about/bren/bren_press.php/
+  
+Link = http://www.ics.uci.edu/about/bren/bren_press.php/bren_vision.php/
+  
+Link = http://www.ics.uci.edu/about/bren/bren_press.php/bren_vision.php/gallery/
+  
+Link = http://www.ics.uci.edu/about/bren/bren_press.php/bren_vision.php/gallery/search/
+  
+Link = http://www.ics.uci.edu/about/bren/bren_press.php/bren_vision.php/gallery/search/ugrad/
+  
+Link = http://www.ics.uci.edu/community/news/press/view_press?id=20
+  
+Link = http://www.ics.uci.edu/community/news/press/view_press?id=19
+  
+Link = gallery/gallery_01_jpg.php
+  
+Link = gallery/gallery_02_jpg.php
+  
+Link = gallery/gallery_03_jpg.php
+  
+Link = gallery/gallery_04_jpg.php
+  
+Link = gallery/gallery_05_jpg.php
+  
+Link = gallery/gallery_06_jpg.php
+  
+Link = gallery/gallery_07_jpg.php
+  
+Link = gallery/gallery_08_jpg.php
+  
+Link = gallery/gallery_09_jpg.php
+  
+Link = gallery/gallery_10_jpg.php
+  
+Link = gallery/gallery_11_jpg.php
+  
+Link = gallery/gallery_12_jpg.php
+  
+Link = gallery/gallery_13_jpg.php
+  
+Link = gallery/gallery_14_jpg.php
+  
+Link = gallery/gallery_15_jpg.php
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=23
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=24
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=25
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=19
+  
+Link = /community/news/articles/view_article?id=20
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=21
+  
+Link = http://www.ics.uci.edu/community/news/articles/view_article?id=22
+  
+Link = ../about_mission.php
+  
+Link = index.php
+  
+Link = ../about_deanmsg.php
+  
+Link = http://intranet.ics.uci.edu/
+  
+Link = ../brenhall/index.php
+  
+Link = ../../ugrad/index.php
+  
+Link = ../../grad/index.php
+  
+Link = ../search/index.php
+  
+Link = ../about_contact.php
+  
+Link = ../about_safety.php
+  
+Link = ../visit/index.php
+  
+Link = bren_vision.php
+  
+Link = bren_about.php
+  
+Link = bren_advance.php
+  
+Link = bren_press.php
+  
+Link = https://soundcloud.com/uci-brenics
+  
+Link = https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
+  
+Link = http://youtube.com/UCIBrenICS
+  
+Link = http://twitter.com/UCIbrenICS
+  
+Link = http://instagram.com/ucibrenics/
+  
+Link = http://facebook.com/UCIBrenICS
+  
+Link = http://www.uci.edu/copyright.php
+  
+Link = http://www.uci.edu/cgi-bin/phonebook
+  
+Link = http://intranet.ics.uci.edu/
+  
+Link = mailto: i%63%73%77%65%62m%61s%74%65r@%69c%73%2e%75c%69%2eedu
+  

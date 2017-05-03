@@ -1,0 +1,56 @@
+ERROR:spacetime@CrawlerFrame_31721795_50924931_85241493:An unknown error occurred.
+Traceback (most recent call last):
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/spacetime_local/frame.py", line 298, in __run
+    self.__app.update()
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 52, in update
+    outputLinks = process_url_group(g, self.UserAgentString)
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 73, in process_url_group
+    return extract_next_links(rawDatas)
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 97, in extract_next_links
+    dom = soupparser.fromstring(htmlStr)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 33, in fromstring
+    return _parse(data, beautifulsoup, makeelement, **bsargs)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 79, in _parse
+    root = _convert_tree(tree, makeelement)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 148, in _convert_tree
+    res_root = convert_node(html_root)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 212, in convert_node
+    return handler(bs_node, parent)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 251, in convert_tag
+    handler(child, res)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 251, in convert_tag
+    handler(child, res)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 258, in convert_comment
+    res = etree.Comment(bs_node)
+  File "src/lxml/lxml.etree.pyx", line 3017, in lxml.etree.Comment (src/lxml/lxml.etree.c:77005)
+ValueError: Comment may not contain '--' or end with '-'
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 763, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/spacetime_local/frame.py", line 298, in __run
+    self.__app.update()
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 52, in update
+    outputLinks = process_url_group(g, self.UserAgentString)
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 73, in process_url_group
+    return extract_next_links(rawDatas)
+  File "/mnt/c/Users/Ram31/Desktop/IR/Programs/Project2/spacetime-IR_student_crawler/python/applications/search/crawler_frame.py", line 97, in extract_next_links
+    dom = soupparser.fromstring(htmlStr)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 33, in fromstring
+    return _parse(data, beautifulsoup, makeelement, **bsargs)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 79, in _parse
+    root = _convert_tree(tree, makeelement)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 148, in _convert_tree
+    res_root = convert_node(html_root)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 212, in convert_node
+    return handler(bs_node, parent)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 251, in convert_tag
+    handler(child, res)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 251, in convert_tag
+    handler(child, res)
+  File "/usr/local/lib/python2.7/dist-packages/lxml/html/soupparser.py", line 258, in convert_comment
+    res = etree.Comment(bs_node)
+  File "src/lxml/lxml.etree.pyx", line 3017, in lxml.etree.Comment (src/lxml/lxml.etree.c:77005)
+ValueError: Comment may not contain '--' or end with '-'

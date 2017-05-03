@@ -1,0 +1,163 @@
+Link= http://www.ics.uci.edu/
+
+Link= http://www.uci.edu/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/about_deanmsg.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/about_factsfigures.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/brenhall/index.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/visit/index.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/equity/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/about_contact.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/dept/
+
+Link= http://www.cs.uci.edu
+
+Link= http://www.informatics.uci.edu
+
+Link= http://www.stat.uci.edu
+
+Link= https://www.ics.uci.edu/faculty/profiles/faculty/area/
+
+Link= https://www.ics.uci.edu/faculty/profiles/faculty/area/
+
+Link= https://www.ics.uci.edu/faculty/profiles/faculty/centers/
+
+Link= https://www.ics.uci.edu/faculty/profiles/faculty/highlights/
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/admissions/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/admissions/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/admissions/Prospective_ApplicationProcess.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/degrees/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/courses/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/forms/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/policies/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/funding/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/computing/account/new
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/resources
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/visit/index
+
+Link= http://www.ics.uci.edu/bin/pdf/grad/F16-17%20Graduate%20Student%20Handbook.pdf
+
+Link= https://www.ics.uci.edu/faculty/profiles/grad/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/sao/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/courses/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/QA_Petitions
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/degrees/index.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/degrees/Minors
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Academic_Integrity
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Academic_Standing
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Add_Drop_ChangeOption
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Course_Outside_UCI
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Grade_Options
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Laptop_ComputerUse
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/policies/Withdrawal_Readmission
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/QA_Graduation
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/resources/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/ugrad/sao/SAO_Events.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/computing/account/new
+
+Link= http://www.ics.uci.edu/prospective
+
+Link= https://www.ics.uci.edu/faculty/profiles/community/scholarships/index
+
+Link= https://www.ics.uci.edu/faculty/profiles/faculty/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/search/index.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/search/search_graduate_all.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/community/alumni/
+
+Link= https://www.ics.uci.edu/faculty/profiles/community/news/
+
+Link= http://calendar.ics.uci.edu/calendar.php
+
+Link= https://www.ics.uci.edu/faculty/profiles/community/news/press/
+
+Link= https://www.ics.uci.edu/faculty/profiles/about/annualreport/
+
+Link= https://www.ics.uci.edu/faculty/profiles/involved/
+
+Link= http://www.uadv.uci.edu/DonaldBrenSchoolOfICSAnnualGiving
+
+Link= https://www.ics.uci.edu/faculty/profiles/involved/leadership_council
+
+Link= https://www.ics.uci.edu/faculty/profiles/involved/corporate_partner
+
+Link= https://www.ics.uci.edu/faculty/profiles/involved/project_class
+
+Link= https://www.ics.uci.edu/faculty/profiles/community/events/competition/
+
+Link= https://ucirvine-csm.symplicity.com/index.php/pid700104
+
+Link= https://www.ics.uci.edu/faculty/profiles/
+
+Link= http://www.ics.uci.edu/faculty/
+
+Link= http://www.ics.uci.edu/faculty/profiles/
+
+Link= https://www.ics.uci.edu/faculty/profiles/view_faculty.php
+
+Link= https://www.ics.uci.edu/faculty/area/index.php
+
+Link= https://www.ics.uci.edu/faculty/centers/index.php
+
+Link= https://www.ics.uci.edu/faculty/highlights/index.php
+
+Link= https://soundcloud.com/uci-brenics
+
+Link= https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
+
+Link= http://youtube.com/UCIBrenICS
+
+Link= http://twitter.com/UCIbrenICS
+
+Link= http://instagram.com/ucibrenics/
+
+Link= http://facebook.com/UCIBrenICS
+
+Link= http://www.uci.edu/copyright.php
+
+Link= http://www.uci.edu/cgi-bin/phonebook
+
+Link= http://intranet.ics.uci.edu/

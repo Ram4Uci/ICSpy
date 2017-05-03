@@ -1,0 +1,6 @@
+﻿http://clearn.ics.uci.edu/about/me/index.htm
+http://calendar.ics.uci.edu
+http://www.ics.uci.edu
+http://www.ics.uci.edu/about/redirect/index.html
+http://www.ics.uci.edu/doesntexist.htm
+http://clearn.ics.uci.edu/about/me/index.htm

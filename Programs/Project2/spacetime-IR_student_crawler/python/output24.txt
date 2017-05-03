@@ -1,0 +1,82 @@
+Output base url = http://ganglia.ics.uci.edu.?c=sensorium&h=sensorium-8.ics.uci.edu&m=cpu_user&r=hour&s=by%20name&hc=4&mc=2........................................../graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486446246&v=1&m=proc_run&vl=%20&ti=Total%20Running%20Processes&z=large
+
+Link = #tabs-main
+  
+Link = #tabs-search
+  
+Link = #tabs-main
+  
+Link = aggregate_graphs.php
+  
+Link = #tabs-main
+  
+Link = events.php
+  
+Link = breakdown_reports.php
+  
+Link = #tabs-autorotation
+  
+Link = #tabs-livedashboard
+  
+Link = cubism_form.php
+  
+Link = #tabs-mobile
+  
+Link = ./?m=proc_run&r=hour&s=by%20name&hc=4&mc=2
+  
+Link = ./?c=sensorium&m=proc_run&r=hour&s=by%20name&hc=4&mc=2
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=37.7&m=cpu_aidle&vl=%25&ti=CPU%20aidle&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=99.7&m=cpu_idle&vl=%25&ti=CPU%20Idle&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.0&m=cpu_nice&vl=%25&ti=CPU%20Nice&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.1&m=cpu_system&vl=%25&ti=CPU%20System&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.1&m=cpu_user&vl=%25&ti=CPU%20User&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.1&m=cpu_wio&vl=%25&ti=CPU%20wio&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=1314.010&m=disk_free&vl=GB&ti=Disk%20Space%20Available&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=1960.256&m=disk_total&vl=GB&ti=Total%20Disk%20Space&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=57.7&m=part_max_used&vl=%25&ti=Maximum%20Disk%20Space%20Used&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.33&m=load_fifteen&vl=%20&ti=Fifteen%20Minute%20Load%20Average&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.27&m=load_five&vl=%20&ti=Five%20Minute%20Load%20Average&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0.29&m=load_one&vl=%20&ti=One%20Minute%20Load%20Average&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=398140&m=mem_buffers&vl=KB&ti=Memory%20Buffers&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=5346872&m=mem_cached&vl=KB&ti=Cached%20Memory&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=359112&m=mem_free&vl=KB&ti=Free%20Memory&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=0&m=mem_shared&vl=KB&ti=Shared%20Memory&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=8036908&m=swap_free&vl=KB&ti=Free%20Swap%20Space&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=392.95&m=bytes_in&vl=bytes%2Fsec&ti=Bytes%20Received&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=649.43&m=bytes_out&vl=bytes%2Fsec&ti=Bytes%20Sent&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=4.10&m=pkts_in&vl=packets%2Fsec&ti=Packets%20Received&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=3.40&m=pkts_out&vl=packets%2Fsec&ti=Packets%20Sent&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=1&m=proc_run&vl=%20&ti=Total%20Running%20Processes&z=large
+  
+Link = ./graph_all_periods.php?c=sensorium&h=sensorium-8.ics.uci.edu&r=hour&z=large&jr=&js=&st=1486515446&v=457&m=proc_total&vl=%20&ti=Total%20Processes&z=large
+  
+Link = http://ganglia.sourceforge.net/downloads.php?component=ganglia-webfrontend&version=3.7.1
+  
+Link = http://ganglia.sourceforge.net/downloads.php?component=gmetad&version=3.7.2
+  
+Link = http://www.rrdtool.org/
+  
+Link = http://dwoo.org/
+  

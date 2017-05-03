@@ -1,0 +1,130 @@
+Output base url = http://www.ics.uci.edu/computing/services/printing.php
+
+Link = /
+  
+Link = http://www.uci.edu/
+  
+Link = /computing/account/
+  
+Link = /computing/account/new.php
+  
+Link = /computing/account/activate.php
+  
+Link = /computing/account/password.php
+  
+Link = /computing/account/quota.php
+  
+Link = /computing/account/renewal.php
+  
+Link = #
+  
+Link = /computing/account/mapdrive_win.php
+  
+Link = /computing/account/mapdrive_mac.php
+  
+Link = /computing/account/faqs.php
+  
+Link = /computing/email/
+  
+Link = /computing/email/google_apps.php
+  
+Link = /computing/email/delivery_point.php
+  
+Link = http://webmail.ics.uci.edu
+  
+Link = /computing/email/thunderbird_Gmail.php
+  
+Link = /computing/email/thunderbird_setup.php
+  
+Link = /computing/email/
+  
+Link = /computing/email/mailboss.php
+  
+Link = /computing/email/
+  
+Link = /computing/email/group_email.php
+  
+Link = /computing/network/
+  
+Link = http://www.oit.uci.edu/mobile/
+  
+Link = http://www.oit.uci.edu/security/vpn/
+  
+Link = https://netreg.ics.uci.edu/
+  
+Link = http://weather.uci.edu/
+  
+Link = /computing/network/
+  
+Link = #
+  
+Link = /computing/linux/hosts.php
+  
+Link = /computing/linux/shell.php
+  
+Link = /computing/linux/modules.php
+  
+Link = /computing/linux/security.php
+  
+Link = /computing/linux/gsu.php
+  
+Link = /computing/linux/sge.php
+  
+Link = #
+  
+Link = http://www.ics.uci.edu/~lab
+  
+Link = /computing/services/printing.php
+  
+Link = /computing/services/msoffice.php
+  
+Link = #
+  
+Link = /computing/services/sophos_win.php
+  
+Link = /computing/services/sophos_mac.php
+  
+Link = /computing/services/microsoft_imagine.php
+  
+Link = #
+  
+Link = /computing/services/snapshot.php
+  
+Link = /computing/services/restore.php
+  
+Link = /computing/quarterlyAnnouncement/index.php
+  
+Link = #
+  
+Link = /computing/web/personalpage.php
+  
+Link = /computing/web/faqs.php
+  
+Link = /computing/policy/
+  
+Link = /computing/policy/ethics.php
+  
+Link = /computing/policy/ethics_summary.php
+  
+Link = /computing/contact/
+  
+Link = /computing/contact/helpdesk.php
+  
+Link = /computing/contact/staff.php
+  
+Link = /computing/contact/who.php
+  
+Link = http://www.ics.uci.edu/%7elab/students/printing.php
+  
+Link = http://intranet.ics.uci.edu/
+  
+Link = mailto:helpdesk@ics.uci.edu
+  
+Link = http://www.uci.edu/copyright.php
+  
+Link = http://www.uci.edu/cgi-bin/phonebook
+  
+Link = http://intranet.ics.uci.edu/
+  
+Link = mailto: i%63%73%77%65%62m%61s%74%65r@%69c%73%2e%75c%69%2eedu
+  
