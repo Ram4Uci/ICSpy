@@ -1,0 +1,16 @@
+ ------------------------------------------ Analytics File ----------------------------------------------
+Total number of Files Indexed  :  0
+Total number of Files Ignored  :  4917
+Total number of Tokens Indexed :  0
+ ------------------------------------------ Analytics File ----------------------------------------------
+Total number of Files Indexed  :  29390
+Total number of Files Ignored  :  4917
+Total number of Tokens Indexed :  288807
+ ------------------------------------------ Analytics File ----------------------------------------------
+Total number of Files Indexed  :  0
+Total number of Files Ignored  :  4917
+Total number of Tokens Indexed :  0
+ ------------------------------------------ Analytics File ----------------------------------------------
+Total number of Files Indexed  :  29390
+Total number of Files Ignored  :  4917
+Total number of Tokens Indexed :  0

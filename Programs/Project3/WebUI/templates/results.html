@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{{title}}</title>
+</head>
+
+<body>
+
+<h1>The Search Query results are</h1>
+<ol>
+{% for item in url_list %}
+	<li style="font-size:25px; margin-bottom:-25px;"><h4><a href = {{item}}>{{item}}</a></h4></li>
+	<p style="font-size:15px"><h4>{{url_dict[item]}}</a></h4><p>
+	
+		{% endfor %}
+<h3> Fetched {{nos}} Results in {{times}} s </h3>
+		
+		
+
+</ol>
+</body>
+</html>
